@@ -2,18 +2,17 @@
 
 1. Exploratory Data Analysis: describe tha data and deal with missing values
 (a) Analyse using descriptive statistics (both graphical and numerical representations) and R
-the Life Expectancy data1.csv dataset. [12 marks]
+the Life Expectancy data1.csv dataset.
 (b) Many predictors in the dataset contain missing values. Is deleting predictor variables with
 many missing values an appropriate method to deal with missing values? Choose a method
 to deal with the missing values and then employ this method to the life expectancy data.
 Justify your choice. Additionally, there are some countries (cases) where the value of Life
-expectancy is missing. Explain how you will handle this problem. [13 marks]
+expectancy is missing. Explain how you will handle this problem.
 2. Collinearity increases the variance of the estimators and hence, reduces the adequacy of the
 model. When collinearity is present, how do you solve this problem? Investigate collinearity
-between the predictor variables in the LifeExpectancyData1.csv dataset. [12 marks]
+between the predictor variables in the LifeExpectancyData1.csv dataset.
 3. To understand better life expectancy and the factors that affect it, suggest the best linear
 model which predicts life expectancy in 2020. Interpret and evaluate the suggested model.
-[25 marks]
 1 of 4
 4. Using the same dataset and using the additional feature Continent, employ an appropriate
 experimental design to study differences of average life expectancies across the continents :
